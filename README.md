@@ -4,6 +4,11 @@
 - 🔭 I’m currently working as a Front-End Developer
 - 🌱 I’m currently studying a Bachelor in Computer Science at the Central University "Marta Abreu" of Las Villas
 - 👀 I'm interested in web development, algorithms and problem solving
+- 🤔 I have 5 years of experience in competitive programming:
+  - I’ve participated at IOI 2021
+  - I’ve got Silver medal at the Ibero-American Competition in Informatics (CIIC 2021)
+  - I’ve achieved 4th place in The 2022 ICPC Caribbean Finals 
+  - I’m [Specialist](https://codeforces.com/profile/Platanito_Frito) at [Codeforces](https://codeforces.com/)
 - 📫 How to reach me:
   - [Telegram](https://t.me/cmorellr)
   - [Email](mailto:carlos.rolando.morell@gmail.com)
