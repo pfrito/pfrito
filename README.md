@@ -10,9 +10,8 @@
 
 ### **🔥Personal Statistics**
 
-<p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=pfrito&show_icons=true&locale=en&layout=compact&exclude=roff" alt="pfrito" /></p>
-<p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api?username=pfrito&show_icons=true&locale=en" alt="pfrito" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pfrito&" alt="pfrito" /></p>
-![](https://raw.githubusercontent.com/pfrito/CF-Stats/main/output/light_card.svg)
-![](https://raw.githubusercontent.com/pfrito/CF-Stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/pfrito/CF-Stats/main/output/rating.svg)
+<img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=pfrito&show_icons=true&locale=en&layout=compact&exclude=roff" alt="pfrito" />
+<img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api?username=pfrito&show_icons=true&locale=en" alt="pfrito" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pfrito&" alt="pfrito" />
+<img align="center" src="https://raw.githubusercontent.com/pfrito/CF-Stats/main/output/light_card.svg" alt="Platanito_Frito" />
+<div><img align="center" src="https://raw.githubusercontent.com/pfrito/CF-Stats/main/output/max_rating.svg" alt="Platanito_Frito"/> <img align="center" src="https://raw.githubusercontent.com/pfrito/CF-Stats/main/output/rating.svg" alt="Platanito_Frito"/></div>
